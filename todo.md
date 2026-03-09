@@ -1,0 +1,4 @@
+- [x] Face recognition
+- [ ] Database integration and schema
+- [ ] Track bought items and balance
+- [ ] Remote web interface with stats
